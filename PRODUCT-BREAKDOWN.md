@@ -1,4 +1,4 @@
-# Cloudfren Product Breakdown — Scratch
+# Cloudfren Product Breakdown — Scratch s
 
 > Working planning note. This is not an implementation spec or a commitment that existing code is production-ready. Decisions below are based on the founder's agreement in the planning conversation; unresolved topics remain open.
 
